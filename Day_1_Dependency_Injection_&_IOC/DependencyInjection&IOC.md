@@ -9,7 +9,7 @@
 * **1.** By making constructors and caling objects as paramters instead of creating them.
 
 **Example:**
-> In above code, we defined `NotificationService` object but never created it. Then, we called its object created by main method in `Dependencyinjection` class nd passed it as a paramter. In this way, we injceted dependency for notification.
+> In the OrderSrvice file, we defined `NotificationService` object but never created it. Then, we called its object created by main method in `Dependencyinjection` class and passed it as a parameter. In this way, we injceted dependency for notification.
 
 ---
 
